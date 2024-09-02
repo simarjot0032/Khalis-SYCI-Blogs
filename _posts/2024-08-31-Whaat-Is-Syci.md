@@ -9,7 +9,7 @@ layout: post
 
 
 
-**SYCI** stands for Sikh Youth Coding Initiative, Whcih is an open source program oragnized in the month of _August_ by KHALIS FOUNDATION. The Sikh Youth Coding Initiative is a program launched by the Khalis Foundation with the aim of empowering the Sikh youth from Punjab in the field of technology.
+**SYCI** stands for Sikh Youth Coding Initiative, Whcih is an open source program oragnized in the month of **_August_** by KHALIS FOUNDATION. The Sikh Youth Coding Initiative is a program launched by the [Khalis Foundation](https://khalisfoundation.org/) with the aim of empowering the Sikh youth from Punjab in the field of technology.
 
 ## Mission of SYCI
 
@@ -28,4 +28,4 @@ layout: post
 - All the selected members will be working on a project in which the project can be from scratch as well as some projects will be making some new feature in the KHALIS FOUNDATION projects.
 - Great opertunity to learn!!
 
-To apply for sikh youth coding initiative here is the link
+To apply for sikh youth coding initiative [here is the link](https://sikhcodeinitiative.com/)
