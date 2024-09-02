@@ -17,6 +17,7 @@ layout: post
 - To empower the Sikh youth from Punjab and bridge the knowledge gaps that hinder their immediate market value.
 - The goal is to empowering the Sikh community, promoting education, and fostering innovation.
 
+
 ## Features of SYCI
 
 - All the will be working in the team of 2 and each team is alloted a mentor.
