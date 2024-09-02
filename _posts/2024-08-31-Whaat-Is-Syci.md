@@ -5,7 +5,7 @@ layout: post
 
 # What is SYCI?
 
-<img src="https://raw.githubusercontent.com/simarjot0032/Khalis-SYCi-Blogs/master/Poster.jpg" style="max-height:500px;width:100%;object-fit='cover';">
+<img src="https://raw.githubusercontent.com/simarjot0032/Khalis-SYCI-Blogs/master/poster.jpg" style="max-height:500px;width:100%;object-fit='cover';">
 
 
 
