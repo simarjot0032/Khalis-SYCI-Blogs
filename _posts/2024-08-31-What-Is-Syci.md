@@ -26,4 +26,4 @@ layout: post
 - All the selected members will be working on a project in which the project can be from scratch as well as some projects will be making some new feature in the KHALIS FOUNDATION projects.
 - Great opportunity to learn!!
 
-The (application)[https://sikhcodeinitiative.com/] for this year (2024) has been closed and next year you can apply in july or before that.
+The [application](https://sikhcodeinitiative.com/) for this year (2024) has been closed and next year you can apply in july or before that.
