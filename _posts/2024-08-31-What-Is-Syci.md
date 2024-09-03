@@ -27,3 +27,5 @@ layout: post
 - Great opportunity to learn!!
 
 The [application](https://sikhcodeinitiative.com/) for this year (2024) has been closed and next year you can apply in july or before that.
+
+I am thrilled to announce that I have been selected for the Sikh Youth Coding Initiative (SYCI) 2024
