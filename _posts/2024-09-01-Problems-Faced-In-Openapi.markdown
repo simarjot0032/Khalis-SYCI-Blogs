@@ -1,5 +1,5 @@
 ---
-title: "Problems Facced while coding OpenSi api"
+title: "Problems Facced while coding Openai api"
 layout: post
 ---
 
